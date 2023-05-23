@@ -1,0 +1,62 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.hentaicity.com&sz=256",
+        "jarFileSize": 55233,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-nsfw",
+        "fileSize": 14750,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "HentaiCity",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-nsfw/builds/HentaiCity.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-nsfw/builds/HentaiCity.cs3",
+        "name": "HentaiCity"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://vi.xhspot.com&sz=256",
+        "jarFileSize": 128523,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-nsfw",
+        "fileSize": 26838,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Xhamster",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-nsfw/builds/Xhamster.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-nsfw/builds/Xhamster.cs3",
+        "name": "Xhamster"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://xnhau.im&sz=256",
+        "jarFileSize": 83888,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hung319/cses-nsfw",
+        "fileSize": 20975,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "SIX"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Xnhau",
+        "jarUrl": "https://raw.githubusercontent.com/hung319/cses-nsfw/builds/Xnhau.jar",
+        "url": "https://raw.githubusercontent.com/hung319/cses-nsfw/builds/Xnhau.cs3",
+        "name": "Xnhau"
+    }
+]
